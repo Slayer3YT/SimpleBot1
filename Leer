@@ -1,0 +1,18 @@
+Antes de usar tu bot en Discord, primero debes crear uno en Discord developers,
+
+una vez creado tu bot en la web deberás copiar el token de la sección "Bot" dentro de la página,
+cuando lo hayas copiado vienes al archivo "config.json" borras lo que tiene en toke:" -- " y colocas el token de tu bot
+también deberás reemplazar lo demás como "prefix" - "IdOwner" con tus datos, luego en index siguiendo en ejemplo planteado
+podrás crear más comandos! para probar tu bot en la página Developers en OAuth2 creas el link de invitación del bot,
+coloca en las primeras opciones "Bot" y en las que aparecen luego "Administrador", arriba saldrá el link generado, lo colocas en el buscador
+y sigues los pasos!, por cierto el nombre del Bot se coloca directo en la página [https://discord.com/developers/]
+
+Cualquier duda puedes dejarla en los comentarios del proyecto :D!
+
+
+PD(recuerda no darle tu token a nadie!)
+
+
+
+Licencia por Slayer = Mocha#9651: Este bot está diseñado para enseñar a los nuevos en cuanto al tema de "Bots de Discord" el como hacerlos y/o configurarlos por si mismos, ofrezco la base
+de este simple bot para uso libre!, puedes cambiar lo que quieras!
